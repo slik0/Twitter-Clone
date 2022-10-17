@@ -23,13 +23,10 @@ Tech used :
  
 ## Screenshot. 
 
+![twitclone](https://user-images.githubusercontent.com/36609511/196079123-4309fedd-0ea9-4afd-a133-ead41894ee64.JPG)
 
 
 
-
-
-![Screenshot 2022-10-04 12 12 43 PM](![twitclone](https://user-images.githubusercontent.com/36609511/196078901-4b8b51cf-4412-4aba-85ce-622569db1eb9.JPG)
-)
 
 
 
