@@ -25,10 +25,7 @@ Tech used :
 
 
 
-
-
-
-![Screenshot 2022-10-04 12 12 43 PM](![twitclone](https://user-images.githubusercontent.com/36609511/196078901-4b8b51cf-4412-4aba-85ce-622569db1eb9.JPG)
+(![twitclone](https://user-images.githubusercontent.com/36609511/196078901-4b8b51cf-4412-4aba-85ce-622569db1eb9.JPG)
 )
 
 
