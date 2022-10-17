@@ -1,4 +1,4 @@
-Twitter Clone :
+## Twitter Clone :
 
                 Let’s make simple Twitter. Users can post tweets and see everyone’s them.
                 To make the project simple, we do not have a sign/login function.
@@ -18,17 +18,18 @@ Tech used :
           * Cloudinary (To host uploaded images on CDN)
           
           
- [Live Heroku Deployment](https://twitter-replit.tydurgin.repl.co/)
+ [Live Heroku Deployment]()
  
  
-##Screenshot. 
+## Screenshot. 
 
 
 
 
 
 
-![Screenshot 2022-10-04 12 12 43 PM](https://user-images.githubusercontent.com/105753588/193906022-4b0f677b-edcd-4dc4-ad89-62c880ec0d73.png)
+![Screenshot 2022-10-04 12 12 43 PM](![twitclone](https://user-images.githubusercontent.com/36609511/196078901-4b8b51cf-4412-4aba-85ce-622569db1eb9.JPG)
+)
 
 
 
